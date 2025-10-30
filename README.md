@@ -57,7 +57,7 @@ pip install ultralytics opencv-python torch torchvision
 
 1. **Clone or download this repository**
    ```bash
-   git clone https://github.com/piyushkadam96k/yolo-detection.git
+   git clone https://github.com/piyushkadam96k/car-human
    cd yolo-detection
    ```
 
